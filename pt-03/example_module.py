@@ -1,1 +1,3 @@
-test = "I've created my own module"
+def hello():
+    print("hello world")
+
